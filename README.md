@@ -1,7 +1,8 @@
 
+![1500](https://github.com/Ssobol7/K8s-First-Steps-Junior/assets/135639288/f01433eb-be13-4705-8bbb-3baa7fe9df20)
 
 # Introduction to Kubernetes: Basics, Architecture, and First Steps for Future Captains
-![1](https://github.com/Ssobol7/K8s-First-Steps-Junior/assets/135639288/a4b54a44-9607-460a-bb08-1a1e3e5b015a)
+
 
 
 
