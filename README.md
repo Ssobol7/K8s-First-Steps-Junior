@@ -1,10 +1,14 @@
-<p align="center">
+<p align="left">
   <img width="300" src="https://github.com/Ssobol7/K8s-First-Steps-Junior/assets/135639288/f01433eb-be13-4705-8bbb-3baa7fe9df20" alt="Image Description">
-</p>
+</p>  
 
- # Introduction to Kubernetes: Basics, Architecture, and First Steps for Future Captains
-
+# "First Steps for Future Captains"
 **Author: Siergej Sobolewski**
+
+ &nbsp;
+ 
+## Introduction to Kubernetes: Basics, Architecture.
+ &nbsp;
 
 # Table of Contents
 
