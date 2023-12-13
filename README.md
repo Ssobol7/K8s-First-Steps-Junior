@@ -1,9 +1,8 @@
+<p align="center">
+  <img width="300" src="https://github.com/Ssobol7/K8s-First-Steps-Junior/assets/135639288/f01433eb-be13-4705-8bbb-3baa7fe9df20" alt="Image Description">
+</p>
 
-![1500](https://github.com/Ssobol7/K8s-First-Steps-Junior/assets/135639288/f01433eb-be13-4705-8bbb-3baa7fe9df20)
-
-# Introduction to Kubernetes: Basics, Architecture, and First Steps for Future Captains
-
-
+ # Introduction to Kubernetes: Basics, Architecture, and First Steps for Future Captains
 
 
 # Table of Contents
