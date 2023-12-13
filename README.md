@@ -4,6 +4,7 @@
 
  # Introduction to Kubernetes: Basics, Architecture, and First Steps for Future Captains
 
+**Author: Siergej Sobolewski**
 
 # Table of Contents
 
